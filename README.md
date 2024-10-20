@@ -6,3 +6,4 @@ Este ejercicio práctico contiene lo siguiente:
 Enunciado del ejercicio:
 Este ejercicio se realizó con dos semaforos, simulados usando leds. Los dos semáforos se controlan con pulsadores.
 Para iniciar, pulsar el botón inicio, de esta manera, el semaforo iniciará su funcionamiento de forma indefinida.
+Cuando se pulse el segundo botón, los leds se apagarán.
